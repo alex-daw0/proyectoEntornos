@@ -10,7 +10,7 @@ public class Main {
         int opcion;
         int indice;
         do {
-            System.out.println("=== Menú principal ===");
+            System.out.println("=== Menú principal cambio en rama principal ===");
             System.out.println("1. Añadir producto");
             System.out.println("2. Borrar producto");
             System.out.println("3. Modificar producto");
